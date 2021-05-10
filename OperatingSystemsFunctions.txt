@@ -5,3 +5,6 @@ It is a mobile phone system with smooth operation and high security.
 Android is an operating system developed by Google.
 Many mobile devices on the market are using Android.
 The system will be lag after a period of use.
+Mac OS is a computer system developed by Apple.
+The system design of Mac OS is very simple.
+Similar with iOS, they both have strong security.
