@@ -2,3 +2,6 @@ iOS is an operating system developed by Apple.
 It is a mobile phone sysytem that only iPhone has. 
 The softwares in the app store are very high. 
 It is a mobile phone system with smooth operation and high security.
+Android is an operating system developed by Google.
+Many mobile devices on the market are using Android.
+The system will be lag after a period of use.
