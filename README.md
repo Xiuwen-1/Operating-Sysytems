@@ -1,2 +1,2 @@
-# Operating-Sysytems
-Description of iOS
+# Operating-Systems
+Description of different operating systems
